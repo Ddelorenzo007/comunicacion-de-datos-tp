@@ -64,6 +64,6 @@ python app.py
 http://127.0.0.1:5000
 ```
 ## Video demo
-Link al video: [pendiente]
+Link al video:
 ```txt
-[Link del video]
+https://drive.google.com/file/d/1Sf4RShXrQ9WKP_9LambL661WN8hAi3hv/view
